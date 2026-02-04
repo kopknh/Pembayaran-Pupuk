@@ -1,0 +1,7 @@
+{
+  "name": "Pembayaran Pupuk - Fertilizer Payment System",
+  "description": "A comprehensive multi-user fertilizer delivery and payment management system for admins and customers, featuring tracking, approvals, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
